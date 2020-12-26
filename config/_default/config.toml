@@ -2,9 +2,9 @@ baseURL = "/"
 title = "Eureka Demo"
 
 # Comment when installing using Hugo Modules
-# theme = "eureka"
+theme = "eureka"
 # Uncomment when installing using Hugo Modules
-theme = "github.com/wangchucheng/hugo-eureka"
+# theme = "github.com/wangchucheng/hugo-eureka"
 
 paginate = 3
 copyright = "&copy; 2020 <a href=\"https://www.wangchucheng.com/\">C. Wang</a> and <a href=\"https://www.ruiqima.com/\">R. Ma</a>"
