@@ -1,6 +1,9 @@
 baseURL = "https://www.ccccye.cn"
 title = "Eureka Demo"
 
+# Uncomment for google analytics
+googleAnalytics = "G-X9WF7QSF3K"
+
 # Comment when installing using Hugo Modules
 theme = "eureka"
 # Uncomment when installing using Hugo Modules
@@ -16,8 +19,6 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir = false
 
-# Uncomment for google analytics
-googleAnalytics = "G-X9WF7QSF3K"
 
 [markup]
   # Do not modify markup.highlight
