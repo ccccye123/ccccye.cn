@@ -19,7 +19,7 @@ publisherName = "C. Wang"
 publisherLogo = ""
 
 [hero]
-  slogan = "We are all in the gutter, but some of us are looking at the stars."
+  slogan = "身在井隅，心向璀璨"
   # Specify the image name in `assets/images/` folder.
   imgLeft = "images/hero-left.jpg"
   imgRight = "images/hero-right.jpg"
@@ -35,11 +35,11 @@ publisherLogo = ""
 
 [comment]
   # Options: disqus and commento.
-  platform = ""
+  platform = "disqus"
 
   [comment.disqus]
-    shortname = ""
+    shortname = "www"
 
   [comment.commento]
     # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
-    url = ""
+    url = "//www-auxl3x00fo.disqus.com/count.js"

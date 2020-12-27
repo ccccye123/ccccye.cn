@@ -1,5 +1,5 @@
 baseURL = "https://www.ccccye.cn"
-title = "Eureka Demo"
+title = "big bear"
 
 # Uncomment for google analytics
 googleAnalytics = "G-X9WF7QSF3K"
@@ -10,7 +10,7 @@ theme = "eureka"
 # theme = "github.com/wangchucheng/hugo-eureka"
 
 paginate = 3
-copyright = "&copy; 2020 <a href=\"https://www.wangchucheng.com/\">C. Wang</a> and <a href=\"https://www.ruiqima.com/\">R. Ma</a>"
+copyright = "&copy; 2020 <a href=\"https://www.ccccye.cn/\">BigBear</a>"
 enableEmoji = true
 enableGitInfo = false
 summaryLength = 75
