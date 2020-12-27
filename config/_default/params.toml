@@ -38,7 +38,7 @@ publisherLogo = ""
   platform = "disqus"
 
   [comment.disqus]
-    shortname = "www"
+    shortname = "www-auxl3x00fo"
 
   [comment.commento]
     # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
