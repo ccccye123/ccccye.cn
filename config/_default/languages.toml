@@ -5,8 +5,8 @@
   # contentDir = "content/en"
 
 # Uncomment for multilingual sites, and customize the following config.
-# [zh]
-#   languageCode = "zh"
-#   languageName = "简体中文"
-#   contentDir = "content/zh"
-#   title = "中文标题"
+[zh]
+  languageCode = "zh"
+  languageName = "简体中文"
+  contentDir = "content/zh"
+  title = "中文标题"
