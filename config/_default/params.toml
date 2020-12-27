@@ -42,4 +42,4 @@ publisherLogo = ""
 
   [comment.commento]
     # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
-    url = "//www-auxl3x00fo.disqus.com/count.js"
+    url = "https://www-auxl3x00fo.disqus.com/embed.js"
