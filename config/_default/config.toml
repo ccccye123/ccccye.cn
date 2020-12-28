@@ -40,3 +40,8 @@ defaultContentLanguageInSubdir = true
 
 [build]
   useResourceCacheWhen = "always"
+
+[params.utter]
+    repo = "ccccye123/ccccye.cn"
+    issueTerm = "title"
+    theme = "github-light"
