@@ -11,7 +11,7 @@ draft: false
 - Idea社区版
 
 # 前言
-mvnw即Maven Wrapper，该工具可以在大型、多人协作的项目统一Maven的版本，避免因为版本不一致造成意想不到的bug
+mvnw即Maven Wrapper，该工具可以在大型、多人协作的项目统一Maven版本，避免因为版本不一致造成意想不到的bug
 
 # 如何安装
 在项目的根目录运行控制台，输入命令

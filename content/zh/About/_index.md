@@ -18,11 +18,15 @@ avatar = ""
   url = ""
 +++
 
+# Title
+初级Java工程师
 
 # 技术栈
-- Java/Spring/C#
+- Java/Spring
 - Mysql
+- Nginx
 
-# 工作经历
-1. 毕业第一年在一家做地铁AFC系统的工作，主要做C#桌面端程序，另外还有一些Java的服务应用，主要负责AFC票务系统
-2. 第二年也就是目前所在公司，Java后端开发，做的是文旅行业物联网系统产品
+# 未来努力方向
+- 微服务
+- Docker容器化/K8S
+- Linux
