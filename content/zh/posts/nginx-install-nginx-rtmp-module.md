@@ -43,3 +43,15 @@ make -j2 & make install  或者 gmake -j2 & gmake install
 > -j2 参数表示用2个线程任务编译，速度更快
 
 不出意外的话到这里OpenResty的安装就完成了，程序安装在  /usr/local/openresty
+
+# Nginx常用管理命令
+```Shell
+cd /usr/local/openresty/nginx
+
+#启动： 
+sbin/nginx
+#重启： 
+sbin/nginx -s reload
+#停止： 
+sbin/nginx -s stop
+```
