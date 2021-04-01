@@ -61,7 +61,10 @@ INSERT INTO prod_category_tree(ancestor, descendant, distance) values(5, 5, 0);
 ```
 
 # 方案一
-直接记录父级id
+**父id**
+
+用类型父id建立关系。
+
 优点：
 1. 容易理解设计思路
 2. 容易找到结点的上级、下级
@@ -73,8 +76,9 @@ INSERT INTO prod_category_tree(ancestor, descendant, distance) values(5, 5, 0);
 
 
 # 方案二
-closure table
-用树结构来存储节点之间的关系，
+**closure table**
+
+用树结构来存储节点之间的关系。
 
 优点：
 1. 查询多级节点一条语句搞定，查询性能不用多说
@@ -89,6 +93,7 @@ https://gitee.com/ccccye74/example/tree/master/MultiLevel
 
 # 性能测试
 **父id和closure table**
+
 场景：1W 5层 每层均匀分布
 
 父id方案测试结果：
