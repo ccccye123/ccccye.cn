@@ -1,0 +1,43 @@
+baseURL: https://www.ccccye.cn
+title: big bear
+
+# Comment when installing using Hugo Modules
+#theme: eureka
+# Uncomment when installing using Hugo Modules
+theme: github.com/wangchucheng/hugo-eureka
+
+paginate: 3
+copyright: >
+  &copy; 2020-2021 <a href=\"https://www.ccccye.cn/\">BigBear</a>
+enableEmoji: true
+enableGitInfo: false
+summaryLength: 75
+
+defaultContentLanguage: zh
+hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir: true
+
+# Uncomment for google analytics
+googleAnalytics: G-X9WF7QSF3K
+
+markup:
+  # Do not modify markup.highlight
+  highlight:
+    codeFences: false
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: authors
+
+build:
+  useResourceCacheWhen: always

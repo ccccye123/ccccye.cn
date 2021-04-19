@@ -1,5 +1,5 @@
-module web
+module ccccye.cn
 
-go 1.15
+go 1.16
 
-require github.com/wangchucheng/hugo-eureka v0.3.1 // indirect
+require github.com/wangchucheng/hugo-eureka v0.7.0 // indirect
