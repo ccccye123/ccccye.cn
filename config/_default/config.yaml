@@ -41,3 +41,11 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
+
+module:
+  - path: eureka
+  # noProxy: none
+  # noVendor: ""
+  # private: '*.*'
+  # proxy: direct
+  # replacements: ""
