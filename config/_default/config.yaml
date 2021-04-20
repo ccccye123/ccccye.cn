@@ -2,9 +2,9 @@ baseURL: https://www.ccccye.cn
 title: big bear
 
 # Comment when installing using Hugo Modules
-#theme: eureka
+theme: eureka
 # Uncomment when installing using Hugo Modules
-theme: github.com/wangchucheng/hugo-eureka
+#theme: github.com/wangchucheng/hugo-eureka
 
 paginate: 3
 copyright: >
@@ -43,6 +43,7 @@ build:
   useResourceCacheWhen: always
 
 module:
+  # path: github.com/wangchucheng/hugo-eureka.git
   - path: hugo-eureka
   # noProxy: none
   # noVendor: ""
