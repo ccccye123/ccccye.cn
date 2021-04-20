@@ -43,7 +43,7 @@ build:
   useResourceCacheWhen: always
 
 module:
-  - path: eureka
+  - path: hugo-eureka
   # noProxy: none
   # noVendor: ""
   # private: '*.*'
